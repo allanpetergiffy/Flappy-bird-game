@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background: linear-gradient(to bottom, #87ceeb, #f0f8ff);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+canvas {
+  border: 3px solid #333;
+  background: url('https://i.ibb.co/7jRZ0nD/clouds.png') repeat-x;
+  background-size: cover;
+}
